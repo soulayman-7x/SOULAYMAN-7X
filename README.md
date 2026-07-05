@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00F5FF&height=200&section=header&text=SOULAYMAN%207X&fontSize=56&fontColor=FFFFFF&animation=twinkling&fontAlignY=40" width="100%" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6600FF,100:0033FF&height=200&section=header&text=SOULAYMAN%207X&fontSize=56&fontColor=FFFFFF&animation=twinkling&fontAlignY=40&v=2" width="100%" alt="Header Banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&height=50&lines=Full-Stack+Developer+%F0%9F%92%BB;Cyberpunk+Systems+Architect+%E2%9A%A1;Building+the+7X+Ecosystem+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%8C%90" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=3000&pause=1000&color=0055FF&center=true&vCenter=true&width=650&height=50&lines=Full-Stack+Developer+%F0%9F%92%BB;Cyberpunk+Systems+Architect+%E2%9A%A1;Building+the+7X+Ecosystem+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%8C%90&v=2" alt="Typing SVG"/>
 
 <br/>
 
@@ -94,7 +94,11 @@
 
 **Got a project in mind, or just want to talk cyberpunk aesthetics? Step into the 7X universe.**
 
-[![Explore Portfolio](https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:FF00C8&height=170&section=footer&text=Explore%20My%20Portfolio&fontSize=36&fontColor=FFFFFF&animation=twinkling&fontAlignY=55)](https://soulayman-7x.github.io/portfolio/)
+<a href="https://soulayman-7x.github.io/portfolio/">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6600FF,100:0033FF&height=170&section=footer&text=Explore%20My%20Portfolio&fontSize=36&fontColor=FFFFFF&animation=twinkling&fontAlignY=55&v=7" width="100%" alt="Explore My Portfolio"/>
+</a>
+
+<br/>
 
 **🌐 [soulayman-7x.github.io/portfolio](https://soulayman-7x.github.io/portfolio/)**
 
