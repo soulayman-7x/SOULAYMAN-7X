@@ -42,21 +42,22 @@
 </div>
 
 ---
-
 ## 📊 GitHub Stats
 
 <table align="center">
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=SOULAYMAN-7X&theme=neon&hide_border=true&border_radius=10&show_icons=true&include_all_commits=true&count_private=true" alt="SOULAYMAN's GitHub Stats" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOULAYMAN-7X&theme=neon&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /></td>
+<td><img src="https://github-readme-stats.demolab.com/api?username=soulayman-7x&theme=neon&hide_border=true&border_radius=10&show_icons=true&v=3" alt="SOULAYMAN's GitHub Stats" /></td>
+<td><img src="https://github-readme-stats.demolab.com/api/top-langs/?username=soulayman-7x&theme=neon&hide_border=true&border_radius=10&layout=compact&v=3" alt="Top Languages" /></td>
 </tr>
 </table>
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=SOULAYMAN-7X&theme=neon&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=soulayman-7x&theme=neon&hide_border=true&border_radius=10&v=1" alt="GitHub Streak"/>
 
 </div>
+
+---
 
 ---
 
@@ -64,7 +65,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SOULAYMAN-7X&theme=neon&no-frame=false&no-bg=false&margin-w=4" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=soulayman-7x&theme=neon&no-frame=false&no-bg=false&margin-w=4&v=5" alt="Trophies"/>
 
 </div>
 
@@ -74,13 +75,14 @@
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&v=1" alt="Random Dev Quote"/>
 
 </div>
 
 <div align="center">
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=SOULAYMAN-7X&icon=8&color=1)](https://visitcount.itsvg.in)
+<br/>
+<img src="https://komarev.com/ghpvc/?username=soulayman-7x&label=PROFILE+VIEWS&color=8A2BE2&label_color=000000&style=for-the-badge" alt="Visitor Count" />
 
 </div>
 
